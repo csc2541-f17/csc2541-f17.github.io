@@ -57,9 +57,9 @@ The hope is that these discussions will lead to actual research papers, or resou
 Grades will be based on:
 
 * Class presentations - 20%
-* Project proposal - 20% - Due Oct 14th
-* Project presentation - 20% - Nov 18th and 25th
-* Project report and code - 40% - Dec 10th
+* Project proposal - 20% - due TBD
+* Project presentation - 20% - Nov 24 and Dec 1
+* Project report and code - 40% - due TBD
 
 ### Project
 
