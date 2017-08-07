@@ -1,0 +1,12 @@
+<main>
+  {% for feature in site.features %}
+    <hr id='{{ feature.id }}'>
+
+    <section>
+      <h2><span>{{ feature.subheading }}</span></h2>
+      <div class='lead'>{{ feature.content }}</div>
+    </section>
+  {% endfor %}
+
+  <hr>
+</main>

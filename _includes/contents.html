@@ -1,0 +1,12 @@
+<main>
+  {% for content in site.contents %}
+    <hr id='{{ content.id }}'>
+
+    <section>
+      <h2><span>{{ content.subheading }}</span></h2>
+      <div class='lead'>{{ content.content }}</div>
+    </section>
+  {% endfor %}
+
+  <hr>
+</main>

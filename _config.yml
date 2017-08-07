@@ -1,1 +1,16 @@
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
+title: CSC2541 Scalable and Flexible Models of Uncertainty (Fall 2017)
+description: CSC2541 course website
+baseurl: ''
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - contents
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
+
