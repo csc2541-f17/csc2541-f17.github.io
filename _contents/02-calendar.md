@@ -101,22 +101,16 @@ This course is still in development, but I decided to post a preliminary schedul
             <ul>
                 <li><a href="https://en.wikipedia.org/wiki/Variational_Bayesian_methods">variational Bayes</a></li>
             </ul>
-            Foundations
-            <ul>
-                <li><a href="http://dl.acm.org/citation.cfm?id=168306">Hinton and van Camp, 1993. Keeping the neural networks simple by minimizing the description length of the weights.</a></li>
-                <li><a href="http://ttic.uchicago.edu/~dmcallester/pac98.ps">McAllester, 1998. Some PAC-Bayesian theorems</a></li>
-            </ul>
-
             Variational inference for BNNs
             <ul>
+                <li><a href="http://dl.acm.org/citation.cfm?id=168306">Hinton and van Camp, 1993. Keeping the neural networks simple by minimizing the description length of the weights.</a></li>  
                 <li><a href="http://papers.nips.cc/paper/4329-practical-variational-inference-for-neural-networks">Graves, 2011. Practical variational inference for neural networks</a></li>
-                <li><a href="https://arxiv.org/abs/1505.05424">Blundell, Cornebise, Kavukcuoglu, and Wierstra, 2015. Weight uncertainty in neural networks.</a></li>
                 <li><a href="http://papers.nips.cc/paper/5666-variational-dropout-and-the-local-reparameterization-trick">Kingma, Salimans, and Welling, 2015. Variational dropout and the local reparameterization trick.</a></li>
                 <li><a href="http://proceedings.mlr.press/v48/gal16.html">Gal and Ghahramani, 2016. Dropout as Bayesian approximation: representing model uncertainty in deep learning</a></li>
             </ul>
             Sparsification
             <ul>
-                <li>TBD</li>
+                <li><a href="https://arxiv.org/abs/1705.08665">Louizos et al., 2017. Bayesian compression for deep learning.</a></li>
             </ul>
         </td>
     </tr>
@@ -128,16 +122,22 @@ This course is still in development, but I decided to post a preliminary schedul
             Variational Inference for GPs
         </td>
         <td>
+            <p>Note: this is among the most mathematically demanding sessions, and the rest of the course doesn't build much on it, so don't get bogged down in the details.</p>
             Natural gradient and stochastic variational inference
             <ul>
                 <li>Natural gradient tutorial (coming soon!)</li>
                 <li><a href="http://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf">Hoffman, Blei, Wang, and Paisley, 2013. Stochastic variational inference</a></li>
+                <li>Note: this material is included because it's used by Hensman et al., and also because natural gradient and SVI are just good things to know about.</li>
             </ul>
             Sparse GPs
             <ul>
                 <li><a href="http://proceedings.mlr.press/v5/titsias09a/titsias09a.pdf">Titsias, 2009. Variational learning of inducing variables in sparse Gaussian processes</a></li>
                 <li><a href="http://papers.nips.cc/paper/6477-understanding-probabilistic-sparse-gaussian-process-approximations">Bauer, van der Wilk, and Ghahramani, 2016. Understanding probabilistic sparse Gaussian process approximations.</a></li>
                 <li><a href="https://arxiv.org/abs/1309.6835">Hensman, Fusi, and Lawrence, 2013. Gaussian processes for big data.</a></li>
+            </ul>
+            Variational inference and generalization
+            <ul>
+                <li><a href="http://www.jmlr.org/papers/volume3/seeger02a/seeger02a.pdf">Seeger, 2002. PAC-Bayesian generalization error bounds for Gaussian process classification</a> (Section 3 can be skimmed)</li> 
             </ul>
         </td>
     </tr>
