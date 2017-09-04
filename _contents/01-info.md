@@ -12,7 +12,7 @@ image: ""
 
 **Lecture:** Friday, 2-4pm, in Bahen 1200
 
-**Office Hours:** Tuesday, 2-4pm, in Pratt 290F (that's the D. L. Pratt Building, not the E. J. Pratt Library!)
+**Office Hours:** Tuesday, 1-3pm, in Pratt 290F (that's the D. L. Pratt Building, not the E. J. Pratt Library!)
 
 ### Overview
 

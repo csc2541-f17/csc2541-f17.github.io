@@ -34,6 +34,7 @@ This course is still in development, but I decided to post a preliminary schedul
                 <li><a href="http://authors.library.caltech.edu/13792/1/MACnc92a.pdf">MacKay, 1992. Bayesian interpolation.</a></li>
                 <li><a href="http://mlg.eng.cam.ac.uk/zoubin/papers/occam.pdf">Rasmussen and Ghahramani, 2001. Occam's razor.</a> </li>
                 <li><a href="https://arxiv.org/abs/1706.04599">Guo et al., 2017. On calibration of modern neural networks.</a></li>
+                <li>Review: <a href="https://metacademy.org/graphs/concepts/bayesian_parameter_estimation">Bayesian parameter estimation</a>, <a>Bayesian linear regression</a></li>
             </ul>
         </td>
     </tr>
@@ -47,7 +48,7 @@ This course is still in development, but I decided to post a preliminary schedul
         <td>
             Foundations
             <ul>
-                <li><a href="http://www.gaussianprocess.org/gpml/chapters/">GPML, Chapter 2</a></li>
+            <li><a href="http://www.gaussianprocess.org/gpml/chapters/">GPML, Chapter 2</a></li>
             </ul>
             Structured kernels
             <ul>
@@ -67,6 +68,11 @@ This course is still in development, but I decided to post a preliminary schedul
             Bayesian Neural Nets
         </td>
         <td>
+            Background
+            <ul>
+                <li><a href="https://metacademy.org/graphs/concepts/backpropagation">backpropagation</a></li>
+                <li><a href="https://metacademy.org/graphs/concepts/metropolis_hastings">Metropolis-Hastings</a></li>
+            </ul>
             Foundations
             <ul>
                 <li><a href="http://www.mitpressjournals.org/doi/abs/10.1162/neco.1992.4.3.448">MacKay, 1992. A practical Bayesian framework for backpropagation networks.</a></li>
@@ -74,7 +80,7 @@ This course is still in development, but I decided to post a preliminary schedul
             </ul>
             Hamiltonian Monte Carlo
             <ul>
-                <li><a href="https://arxiv.org/abs/1206.1901">Neal, 2012. MCMC using Hamiltonian dynamics.</a></li>
+                <li><a href="https://arxiv.org/abs/1206.1901">Neal, 2012. MCMC using Hamiltonian dynamics.</a> (focus on sections 1-3)</li>
             </ul>
             Stochastic gradient Langevin dynamics
             <ul>
@@ -85,35 +91,24 @@ This course is still in development, but I decided to post a preliminary schedul
     </tr>
     <tr>
         <td>
-            9/29 and 10/6
+            9/29
         </td>
         <td>
-            Variational Inference and Description Length
+            Variational Inference for BNNs
         </td>
         <td>
             Background
             <ul>
-                <li>TBD</li>
+                <li><a href="https://en.wikipedia.org/wiki/Variational_Bayesian_methods">variational Bayes</a></li>
             </ul>
             Foundations
             <ul>
                 <li><a href="http://dl.acm.org/citation.cfm?id=168306">Hinton and van Camp, 1993. Keeping the neural networks simple by minimizing the description length of the weights.</a></li>
                 <li><a href="http://ttic.uchicago.edu/~dmcallester/pac98.ps">McAllester, 1998. Some PAC-Bayesian theorems</a></li>
             </ul>
-            Natural gradient and stochastic variational inference
-            <ul>
-                <li>Natural gradient tutorial (coming soon!)</li>
-                <li><a href="http://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf">Hoffman, Blei, Wang, and Paisley, 2013. Stochastic variational inference</a></li>
-            </ul>
-            Variational inference for GPs
-            <ul>
-                <li><a href="http://proceedings.mlr.press/v5/titsias09a/titsias09a.pdf">Titsias, 2009. Variational learning of inducing variables in sparse Gaussian processes</a></li>
-                <li><a href="http://papers.nips.cc/paper/6477-understanding-probabilistic-sparse-gaussian-process-approximations">Bauer, van der Wilk, and Ghahramani, 2016. Understanding probabilistic sparse Gaussian process approximations.</a></li>
-                <li><a href="https://arxiv.org/abs/1309.6835">Hensman, Fusi, and Lawrence, 2013. Gaussian processes for big data.</a></li>
-            </ul>
+
             Variational inference for BNNs
             <ul>
-                <li>TBD: VAE tutorial?</li>
                 <li><a href="http://papers.nips.cc/paper/4329-practical-variational-inference-for-neural-networks">Graves, 2011. Practical variational inference for neural networks</a></li>
                 <li><a href="https://arxiv.org/abs/1505.05424">Blundell, Cornebise, Kavukcuoglu, and Wierstra, 2015. Weight uncertainty in neural networks.</a></li>
                 <li><a href="http://papers.nips.cc/paper/5666-variational-dropout-and-the-local-reparameterization-trick">Kingma, Salimans, and Welling, 2015. Variational dropout and the local reparameterization trick.</a></li>
@@ -122,6 +117,27 @@ This course is still in development, but I decided to post a preliminary schedul
             Sparsification
             <ul>
                 <li>TBD</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            10/6
+        </td>
+        <td>
+            Variational Inference for GPs
+        </td>
+        <td>
+            Natural gradient and stochastic variational inference
+            <ul>
+                <li>Natural gradient tutorial (coming soon!)</li>
+                <li><a href="http://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf">Hoffman, Blei, Wang, and Paisley, 2013. Stochastic variational inference</a></li>
+            </ul>
+            Sparse GPs
+            <ul>
+                <li><a href="http://proceedings.mlr.press/v5/titsias09a/titsias09a.pdf">Titsias, 2009. Variational learning of inducing variables in sparse Gaussian processes</a></li>
+                <li><a href="http://papers.nips.cc/paper/6477-understanding-probabilistic-sparse-gaussian-process-approximations">Bauer, van der Wilk, and Ghahramani, 2016. Understanding probabilistic sparse Gaussian process approximations.</a></li>
+                <li><a href="https://arxiv.org/abs/1309.6835">Hensman, Fusi, and Lawrence, 2013. Gaussian processes for big data.</a></li>
             </ul>
         </td>
     </tr>
@@ -240,6 +256,16 @@ This course is still in development, but I decided to post a preliminary schedul
         </td>
         <td>
             Project Presentations
+        </td>
+        <td>
+        </td>
+        </tr>
+    <tr>
+        <td>
+            12/7
+        </td>
+        <td>
+            Project reports due
         </td>
         <td>
         </td>
