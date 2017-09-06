@@ -7,7 +7,7 @@ image: ""
 ---
 
 
-This course is still in development, but I decided to post a preliminary schedule to help give you an idea what the course is about. Everything here is subject to change.
+<b>Note:</b> this calendar previously had the wrong start date. Class begins on 9/15, not 9/8.
 
 
 <table>
@@ -23,7 +23,7 @@ This course is still in development, but I decided to post a preliminary schedul
     </tr>
     <tr>
         <td>
-            9/8
+            9/15
         </td>
         <td>
             Overview
@@ -40,7 +40,7 @@ This course is still in development, but I decided to post a preliminary schedul
     </tr>
     <tr>
         <td>
-            9/15
+            9/22
         </td>
         <td>
             Gaussian Processes
@@ -62,7 +62,7 @@ This course is still in development, but I decided to post a preliminary schedul
     </tr>
     <tr>
         <td>
-            9/22
+            9/29
         </td>
         <td>
             Bayesian Neural Nets
@@ -91,7 +91,7 @@ This course is still in development, but I decided to post a preliminary schedul
     </tr>
     <tr>
         <td>
-            9/29
+            10/6
         </td>
         <td>
             Variational Inference for BNNs
@@ -116,7 +116,7 @@ This course is still in development, but I decided to post a preliminary schedul
     </tr>
     <tr>
         <td>
-            10/6
+            10/13
         </td>
         <td>
             Variational Inference for GPs
@@ -143,7 +143,7 @@ This course is still in development, but I decided to post a preliminary schedul
     </tr>
     <tr>
         <td>
-            10/13
+            10/20
         </td>
         <td>
             Exploration I: Active Learning and Bandits
@@ -165,7 +165,7 @@ This course is still in development, but I decided to post a preliminary schedul
     </tr>
     <tr>
         <td>
-            10/20
+            10/27
         </td>
         <td>
             Exploration II: Bayesian Optimization
@@ -188,7 +188,7 @@ This course is still in development, but I decided to post a preliminary schedul
     </tr>
     <tr>
         <td>
-            10/27
+            11/3
         </td>
         <td>
             Exploration III: Reinforcement Learning
@@ -209,7 +209,7 @@ This course is still in development, but I decided to post a preliminary schedul
     </tr>
     <tr>
         <td>
-            11/3
+            11/10
         </td>
         <td>
             Adversarial Robustness
@@ -228,16 +228,6 @@ This course is still in development, but I decided to post a preliminary schedul
                 <li><a href="https://arxiv.org/abs/1707.02476">Bradshaw, Matthews, and Ghahramani, 2017. Adversarial Examples, Uncertainty, and Transfer Testing Robustness in Gaussian Process Hybrid Deep Networks</a></li>
                 <li>TBD</li>
             </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            11/10
-        </td>
-        <td>
-            Reading week, no class
-        </td>
-        <td>
         </td>
     </tr>
     <tr>
