@@ -152,14 +152,13 @@ image: ""
             Active Learning
             <ul>
                 <li><a href="http://www.mitpressjournals.org/doi/abs/10.1162/neco.1992.4.4.590">MacKay, 1992. Information-based objective functions for active data selection.</a></li>
-                <li>TBD</li>
+                <li><a href="https://arxiv.org/abs/1704.03003">Graves et al., 2017. Automated curriculum learning for neural networks.</a></li>
             </ul>
             Bandits
             <ul>
-               <li>TBD: UCB algorithm</li>
+               <li><a href="http://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/Auer+al-UCB.pdf">Auer et al., 2002. Finite-time analysis of the multiarmed bandit problem.</a></li>
                <li><a href="http://papersdb.cs.ualberta.ca/~papersdb/uploaded_files/633/paper_ecml06.pdf">Kocsis and Szepesvari, 2006. Bandit based Monte-Carlo planning.</a></li>
                <li><a href="https://arxiv.org/abs/1707.02038">Russo et al., 2017. A tutorial on Thompson sampling.</a></li>
-               <li>TBD</li>
             </ul>
         </td>
     </tr>
