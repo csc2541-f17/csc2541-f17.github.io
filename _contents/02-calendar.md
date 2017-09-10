@@ -29,12 +29,19 @@ image: ""
             Overview
         </td>
         <td>
+            Overview
             <ul>
                 <li><a href="http://www.nature.com/nature/journal/v521/n7553/full/nature14541.html">Ghahramani, 2015. Probabilistic machine learning and artificial intelligence.</a></li>
+            </ul>
+            Bayesian regression
+            <ul>
                 <li><a href="http://authors.library.caltech.edu/13792/1/MACnc92a.pdf">MacKay, 1992. Bayesian interpolation.</a></li>
                 <li><a href="http://mlg.eng.cam.ac.uk/zoubin/papers/occam.pdf">Rasmussen and Ghahramani, 2001. Occam's razor.</a> </li>
-                <li><a href="https://arxiv.org/abs/1706.04599">Guo et al., 2017. On calibration of modern neural networks.</a></li>
                 <li>Review: <a href="https://metacademy.org/graphs/concepts/bayesian_parameter_estimation">Bayesian parameter estimation</a>, <a>Bayesian linear regression</a></li>
+            </ul>
+            Calibration
+            <ul>
+                <li><a href="https://arxiv.org/abs/1706.04599">Guo et al., 2017. On calibration of modern neural networks.</a></li>
             </ul>
         </td>
     </tr>
@@ -180,7 +187,6 @@ image: ""
             <ul>
                 <li><a href="http://papers.nips.cc/paper/5086-multi-task-bayesian-optimization">Swersky, Snoek, and Adams, 2013. Multi-task Bayesian optimization</a></li>
                 <li><a href="https://arxiv.org/abs/1406.3896">Swersky, Snoek, and Adams, 2014. Freeze-thaw Bayesian optimization</a></li>
-                <li><a href="http://proceedings.mlr.press/v37/kandasamy15.pdf">Kandasamy, Schneider, and Poczos, 2015. High dimensional Bayesian optimization and bandits via additive models</a></li>
                 <li><a href="http://www.cs.toronto.edu/~rgrosse/aistats2017-additive.pdf">Gardner et al., 2017. Discovering and exploiting additive structure for Bayesian optimization.</a></li>
             </ul>
         </td>
