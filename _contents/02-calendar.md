@@ -37,7 +37,7 @@ image: ""
             <ul>
                 <li><a href="http://authors.library.caltech.edu/13792/1/MACnc92a.pdf">MacKay, 1992. Bayesian interpolation.</a></li>
                 <li><a href="http://mlg.eng.cam.ac.uk/zoubin/papers/occam.pdf">Rasmussen and Ghahramani, 2001. Occam's razor.</a> </li>
-                <li>Review: <a href="https://metacademy.org/graphs/concepts/bayesian_parameter_estimation">Bayesian parameter estimation</a>, <a>Bayesian linear regression</a></li>
+                <li>Review: <a href="https://metacademy.org/graphs/concepts/bayesian_parameter_estimation">Bayesian parameter estimation</a>, <a href="https://metacademy.org/graphs/concepts/bayesian_linear_regression">Bayesian linear regression</a></li>
             </ul>
             Calibration
             <ul>
