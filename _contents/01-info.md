@@ -12,7 +12,13 @@ image: ""
 
 **Lecture:** Friday, 2-4pm, in Bahen 1200
 
-**Office Hours:** Tuesday, 1-3pm, in Pratt 290F (that's the D. L. Pratt Building, not the E. J. Pratt Library!)
+**Office Hours:**
+
+* Tuesday, 1-3pm, in Pratt 290F (that's the D. L. Pratt Building, not the E. J. Pratt Library!)
+
+* You need to book a time slot through a URL which will be given out during class.
+
+* Your team should book a double time slot the week of your presentation. Please bring a draft of your presentation.
 
 ### Overview
 
@@ -39,11 +45,9 @@ By contrast, CSC2541 is a topics course which aims to bring you to the research 
 
 CSC2541 is a topics course which is offered repeatedly but with different topics. I'm only planning to offer this version of the course once. David Duvenaud recently taught a [version of 2541](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html) focused on generative models, and this coming winter, he'll be teaching a topics course focused on learning discrete structure. I've tried to minimize the overlap with those courses, so if you've taken 2541 before, you should be able to take it again without being bored. Hence, this course doesn't have much material on generative models or discrete latent variables. I think there are roughly 2 weeks of overlap with last year's iteration of 2541: variational inference and model-based reinforcement learning.
 
-### Tentative course structure
+### Course structure
 
-The course will roughly follow the following structure, but the details are subject to change.
-
-After the first two lectures, each week a different student, or pair of students, will present on an aspect of these methods, using a couple of papers as reference. I'll provide guidance about the content of these presentations.
+After the first two lectures, each week a different team of students will present on the readings for that week. I'll provide guidance about the content of these presentations.
 
 In-class discussion will center around:
 
@@ -57,19 +61,13 @@ The hope is that these discussions will lead to actual research papers, or resou
 Grades will be based on:
 
 * Class presentations - 20%
-* Project proposal - 20% - due TBD
-* Project presentation - 20% - Nov 24 and Dec 1
-* Project report and code - 40% - due TBD
+* Project proposal - 20% - due Oct. 12
+* Final project presentation, report, and code - 60%
+    * presentations Nov. 24 and Dec. 1
+    * Project report due Dec. 10
 
 ### Project
 
-The project will follow roughly the following structure, but the details are subject to change.
+You are asked to carry out an original research project related to the course content and write a (roughly 8 page) report. You're encouraged to work in teams of 3-5. See [here](project-handout.pdf) for more specific guidelines.
 
-Students can work on projects individually, in pairs, or even in triplets. The grade will depend on the ideas, how well you present them in the report, how clearly you position your work relative to existing literature, how illuminating your experiments are, and well-supported your conclusions are.
-
-Each group of students will write a short (around 2 pages) research project proposal, which ideally will be structured similarly to a standard paper. It should include a description of a minimum viable project, some nice-to-haves if time allows, and a short review of related work. You don't have to do what your project proposal says - the point of the proposal is mainly to have a plan and to make it easy for me to give you feedback.
-
-Towards the end of the course everyone will present their project in a short, roughly 5 minute, presentation.
-
-At the end of the class you'll hand in a project report (around 4 to 8 pages), ideally in the format of a machine learning conference paper such as NIPS.
 

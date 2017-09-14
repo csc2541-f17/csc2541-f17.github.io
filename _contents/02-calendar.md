@@ -7,8 +7,6 @@ image: ""
 ---
 
 
-<b>Note:</b> this calendar previously had the wrong start date. Class begins on 9/15, not 9/8.
-
 
 <table>
     <tr>
@@ -119,6 +117,17 @@ image: ""
             <ul>
                 <li><a href="https://arxiv.org/abs/1705.08665">Louizos et al., 2017. Bayesian compression for deep learning.</a></li>
             </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            10/12
+        </td>
+        <td>
+            Project proposals due!
+        </td>
+        <td>
+            Send by e-mail to csc2541-submit at cs dot toronto dot edu. Include "CSC2541 Project Proposal" in subject line.
         </td>
     </tr>
     <tr>
@@ -257,12 +266,13 @@ image: ""
         </tr>
     <tr>
         <td>
-            12/7
+            12/10
         </td>
         <td>
             Project reports due
         </td>
         <td>
+            Send by e-mail to csc2541-submit at cs dot toronto dot edu. Include "CSC2541 Final Report" in subject line.
         </td>
     </tr>
 </table>
