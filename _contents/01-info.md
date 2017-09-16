@@ -10,7 +10,7 @@ image: ""
 
 **Email:** rgrosse at cs dot toronto dot edu (put CSC2541 in the subject line)
 
-**Lecture:** Friday, 2-4pm, in Bahen 1200
+**Lecture:** Friday, 2-4pm, in Bahen 1220
 
 **Office Hours:**
 
