@@ -24,7 +24,8 @@ image: ""
             9/15
         </td>
         <td>
-            Overview
+            <p>Overview</p>
+            <p><a href="slides/lec01.pdf">[Slides]</a></p>
         </td>
         <td>
             Overview
