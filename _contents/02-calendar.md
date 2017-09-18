@@ -61,8 +61,8 @@ image: ""
                 <li><a href="http://www.gaussianprocess.org/gpml/chapters/">skim GPML sections 4.1-4.2</a></li>
                 <li><a href="http://www.gaussianprocess.org/gpml/chapters/">GPML, Chapter 5</a></li>
                 <li><a href="https://www.cs.toronto.edu/~duvenaud/cookbook/index.html">David Duvenaud's kernel cookbook</a></li>
-                <li><a href="http://proceedings.mlr.press/v28/wilson13.pdf">Wilson and Adams, 2013. Gaussian process kernels for pattern discovery and extrapolation</a></li>
                 <li><a href="http://proceedings.mlr.press/v28/duvenaud13.pdf">Duvenaud et al., 2013. Structure discovery in nonparametric regression through compositional kernel search</a></li>
+                <li>(recommended) <a href="http://proceedings.mlr.press/v28/wilson13.pdf">Wilson and Adams, 2013. Gaussian process kernels for pattern discovery and extrapolation</a></li>
             </ul>
         </td>
     </tr>
@@ -81,7 +81,7 @@ image: ""
             </ul>
             Foundations
             <ul>
-                <li><a href="http://www.mitpressjournals.org/doi/abs/10.1162/neco.1992.4.3.448">MacKay, 1992. A practical Bayesian framework for backpropagation networks.</a></li>
+                <li><a href="http://authors.library.caltech.edu/13793/1/MACnc92b.pdf">MacKay, 1992. A practical Bayesian framework for backpropagation networks.</a></li>
                 <li><a href="http://www.csri.utoronto.ca/~radford/ftp/thesis.pdf">Neal, 1995. Bayesian learning for neural networks.</a> Chapter 2.</li>
             </ul>
             Hamiltonian Monte Carlo
