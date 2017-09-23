@@ -50,7 +50,7 @@ image: ""
         </td>
         <td>
         <p>Gaussian Processes</p>
-        <p><a href="slides/lec01.pdf">[Slides]</a></p>
+        <p><a href="slides/lec02.pdf">[Slides]</a></p>
         </td>
         <td>
             Foundations
