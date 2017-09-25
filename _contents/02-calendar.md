@@ -62,8 +62,11 @@ image: ""
                 <li><a href="http://www.gaussianprocess.org/gpml/chapters/">skim GPML sections 4.1-4.2</a></li>
                 <li><a href="http://www.gaussianprocess.org/gpml/chapters/">GPML, Chapter 5</a></li>
                 <li><a href="https://www.cs.toronto.edu/~duvenaud/cookbook/index.html">David Duvenaud's kernel cookbook</a></li>
-                <li><a href="http://proceedings.mlr.press/v28/duvenaud13.pdf">Duvenaud et al., 2013. Structure discovery in nonparametric regression through compositional kernel search</a></li>
-                <li>(recommended) <a href="http://proceedings.mlr.press/v28/wilson13.pdf">Wilson and Adams, 2013. Gaussian process kernels for pattern discovery and extrapolation</a></li>
+                <li>We did not get to the following two, so they will be covered in a later lecture:</li>
+                <ul>
+                    <li><a href="http://proceedings.mlr.press/v28/duvenaud13.pdf">Duvenaud et al., 2013. Structure discovery in nonparametric regression through compositional kernel search</a></li>
+                    <li><a href="http://proceedings.mlr.press/v28/wilson13.pdf">Wilson and Adams, 2013. Gaussian process kernels for pattern discovery and extrapolation</a></li>
+                </ul>
             </ul>
         </td>
     </tr>
@@ -107,13 +110,14 @@ image: ""
             Background
             <ul>
                 <li><a href="https://en.wikipedia.org/wiki/Variational_Bayesian_methods">variational Bayes</a></li>
+                <li><a href="https://arxiv.org/abs/1312.6114">Kingma and Welling, 2014. Auto-encoding variational Bayes.</a></li>
             </ul>
             Variational inference for BNNs
             <ul>
                 <li><a href="http://dl.acm.org/citation.cfm?id=168306">Hinton and van Camp, 1993. Keeping the neural networks simple by minimizing the description length of the weights.</a></li>  
                 <li><a href="http://papers.nips.cc/paper/4329-practical-variational-inference-for-neural-networks">Graves, 2011. Practical variational inference for neural networks</a></li>
                 <li><a href="http://papers.nips.cc/paper/5666-variational-dropout-and-the-local-reparameterization-trick">Kingma, Salimans, and Welling, 2015. Variational dropout and the local reparameterization trick.</a></li>
-                <li><a href="http://proceedings.mlr.press/v48/gal16.html">Gal and Ghahramani, 2016. Dropout as Bayesian approximation: representing model uncertainty in deep learning</a></li>
+                <li>(optional) <a href="http://proceedings.mlr.press/v48/gal16.html">Gal and Ghahramani, 2016. Dropout as Bayesian approximation: representing model uncertainty in deep learning</a></li>
             </ul>
             Sparsification
             <ul>
