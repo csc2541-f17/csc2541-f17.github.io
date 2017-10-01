@@ -75,7 +75,8 @@ image: ""
             9/29
         </td>
         <td>
-            Bayesian Neural Nets
+        <p>Bayesian Neural Nets</p>
+        <p><a href="slides/lec03.pdf">[Slides]</a></p>
         </td>
         <td>
             Background
