@@ -105,7 +105,8 @@ image: ""
             10/6
         </td>
         <td>
-            Variational Inference for BNNs
+            <p>Variational Inference for BNNs</p>
+            <p><a href="slides/lec04.pdf">[Slides]</a></p>
         </td>
         <td>
             Background
