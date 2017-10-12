@@ -149,7 +149,7 @@ image: ""
             <p>Note: this is among the most mathematically demanding sessions, and the rest of the course doesn't build much on it, so don't get bogged down in the details.</p>
             Natural gradient and stochastic variational inference
             <ul>
-                <li>Natural gradient tutorial (coming soon!)</li>
+                <li>Natural gradient tutorial: see Piazza under "Resources" </li>
                 <li><a href="http://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf">Hoffman, Blei, Wang, and Paisley, 2013. Stochastic variational inference</a></li>
                 <li>Note: this material is included because it's used by Hensman et al., and also because natural gradient and SVI are just good things to know about.</li>
             </ul>
@@ -181,7 +181,7 @@ image: ""
             Bandits
             <ul>
                <li><a href="http://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/Auer+al-UCB.pdf">Auer et al., 2002. Finite-time analysis of the multiarmed bandit problem.</a></li>
-               <li><a href="http://papersdb.cs.ualberta.ca/~papersdb/uploaded_files/633/paper_ecml06.pdf">Kocsis and Szepesvari, 2006. Bandit based Monte-Carlo planning.</a></li>
+               <li><i>(optional)</i> <a href="http://papersdb.cs.ualberta.ca/~papersdb/uploaded_files/633/paper_ecml06.pdf">Kocsis and Szepesvari, 2006. Bandit based Monte-Carlo planning.</a></li>
                <li><a href="https://arxiv.org/abs/1707.02038">Russo et al., 2017. A tutorial on Thompson sampling.</a></li>
             </ul>
         </td>
