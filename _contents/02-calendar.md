@@ -144,7 +144,7 @@ image: ""
         </td>
         <td>
             <p>Variational Inference for GPs</p>
-            <p><a href="slides/lec05.pdf">[Slides]</a></p>
+            <p>[Slides: <a href="slides/lec05a.pdf">1</a>, <a href="slides/lec05b.pdf">2</a>]</p>
         </td>
         <td>
             <p>Note: this is among the most mathematically demanding sessions, and the rest of the course doesn't build much on it, so don't get bogged down in the details.</p>
