@@ -199,13 +199,13 @@ image: ""
             <ul>
                 <li><a href="http://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-l">Snoek, Larochelle, and Adams, 2012. Practical Bayesian optimization of machine learning algorithms.</a></li>
                 <li><a href="https://arxiv.org/abs/0912.3995">Srinivas et al., 2010. Gaussian process optimization in the bandit setting: no regret and experimental design.</a></li>
-                <li><a href="https://arxiv.org/abs/1502.05700">Snoek et al., 2015. Scalable Bayesian optimization using deep neural networks.</a></li>
+                <li>(optional) <a href="https://arxiv.org/abs/1502.05700">Snoek et al., 2015. Scalable Bayesian optimization using deep neural networks.</a></li>
             </ul>
             Exploiting structure
             <ul>
                 <li><a href="http://papers.nips.cc/paper/5086-multi-task-bayesian-optimization">Swersky, Snoek, and Adams, 2013. Multi-task Bayesian optimization</a></li>
                 <li><a href="https://arxiv.org/abs/1406.3896">Swersky, Snoek, and Adams, 2014. Freeze-thaw Bayesian optimization</a></li>
-                <li><a href="http://www.cs.toronto.edu/~rgrosse/aistats2017-additive.pdf">Gardner et al., 2017. Discovering and exploiting additive structure for Bayesian optimization.</a></li>
+                <li>(optional) <a href="http://www.cs.toronto.edu/~rgrosse/aistats2017-additive.pdf">Gardner et al., 2017. Discovering and exploiting additive structure for Bayesian optimization.</a></li>
             </ul>
         </td>
     </tr>
