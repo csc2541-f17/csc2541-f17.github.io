@@ -171,7 +171,8 @@ image: ""
             10/20
         </td>
         <td>
-            Exploration I: Active Learning and Bandits
+            <p>Exploration I: Active Learning and Bandits</p>
+            <p><a href="slides/lec06.pdf">[Slides]</a></p>
         </td>
         <td>
             Active Learning
