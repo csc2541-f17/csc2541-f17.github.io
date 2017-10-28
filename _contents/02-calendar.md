@@ -221,13 +221,13 @@ image: ""
             Model-free
             <ul>
                 <li><a href="http://papers.nips.cc/paper/6500-deep-exploration-via-bootstrapped-dqn">Osband et al., 2016. Deep exploration via bootstrapped DQN.</a></li>
-                <li>TBD</li>
+                <li><a href="https://arxiv.org/abs/1605.09674">Houthooft et al., 2016. VIME: Variational information maximizing exploration.</a></li>
+                <li>(optional) <a href="https://arxiv.org/pdf/1706.10295.pdf">Fortunato et al., 2017. Noisy networks for exploration.</a></li>
             </ul>
             Model-based
             <ul>
                 <li><a href="http://machinelearning.wustl.edu/mlpapers/paper_files/ICML2011Deisenroth_323.pdf">Deisenroth and Rasmussen, 2011. PILCO: a model-based and data-efficient approach to policy search</a></li>
                 <li><a href="https://arxiv.org/abs/1605.07127">Depeweg et al., 2016. Learning and policy search in stochastic dynamical systems with Bayesian neural networks</a></li>
-                <li>TBD</li>
             </ul>
         </td>
     </tr>
