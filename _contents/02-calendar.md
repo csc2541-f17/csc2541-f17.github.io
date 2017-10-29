@@ -193,7 +193,8 @@ image: ""
             10/27
         </td>
         <td>
-            Exploration II: Bayesian Optimization
+            <p>Exploration II: Bayesian Optimization</p>
+            <p><a href="slides/lec07.pdf">[Slides]</a></p>
         </td>
         <td>
             Bayesian optimization
