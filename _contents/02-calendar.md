@@ -240,18 +240,13 @@ image: ""
             Adversarial Robustness
         </td>
         <td>
-            Basic phenomena
             <ul>
                 <li><a href="https://arxiv.org/abs/1412.6572">Goodfellow, Shlens, and Szegedy, 2014. Explaining and harnessing adversarial examples.</a></li>
-                <li><a href="https://arxiv.org/abs/1701.00160">Ian Goodfellow's NIPS tutorial</a></li>
+                <li>(recommended) <a href="https://arxiv.org/abs/1701.00160">Ian Goodfellow's NIPS tutorial</a></li>
                 <li><a href="https://arxiv.org/abs/1602.02697">Papernot et al., 2016. Practical black-box attacks against machine learning systems using adversarial examples</a></li>
                 <li><a href="https://arxiv.org/abs/1702.06832">Kos, Fischer, and Song, 2017. Adversarial examples for generative models</a></li>
-            </ul>
-            Attacks and defenses
-            <ul>
                 <li><a href="https://arxiv.org/abs/1511.07528">Papernot et al., 2015. The limitations of deep learning in adversarial settings</a></li>
                 <li><a href="https://arxiv.org/abs/1707.02476">Bradshaw, Matthews, and Ghahramani, 2017. Adversarial Examples, Uncertainty, and Transfer Testing Robustness in Gaussian Process Hybrid Deep Networks</a></li>
-                <li>TBD</li>
             </ul>
         </td>
     </tr>
