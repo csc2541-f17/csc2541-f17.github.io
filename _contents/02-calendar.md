@@ -217,7 +217,7 @@ image: ""
         </td>
         <td>
             <p>Exploration III: Reinforcement Learning</p>
-            <p><a href="slides/lec07.pdf">[Slides]</a></p>
+            <p><a href="slides/lec08.pdf">[Slides]</a></p>
         </td>
         <td>
             Model-free
