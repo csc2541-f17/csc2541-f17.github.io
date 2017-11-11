@@ -238,7 +238,8 @@ image: ""
             11/10
         </td>
         <td>
-            Adversarial Robustness
+        <p>Adversarial Robustness</p>
+        <p><a href="slides/lec09.pdf">[Slides]</a></p>
         </td>
         <td>
             <ul>
@@ -256,9 +257,18 @@ image: ""
             11/17
         </td>
         <td>
-            TBD
+            <p>Structure Search and Optimization</p>
         </td>
         <td>
+            Structure Search
+            <ul>
+                <li><a href="http://proceedings.mlr.press/v28/duvenaud13.pdf">Duvenaud et al., 2013. Structure discovery in nonparametric regression through compositional kernel search</a></li>
+                <li><a href="http://proceedings.mlr.press/v28/wilson13.pdf">Wilson and Adams, 2013. Gaussian process kernels for pattern discovery and extrapolation</a></li>
+            </ul>
+            Optimization
+            <ul>
+                <li><a href="https://arxiv.org/abs/1503.05671">Martens and Grosse, 2015. Optimizing neural networks with Kronecker-factored approximate curvature.</a></li>
+            </ul>
         </td>
     </tr>
     <tr>
