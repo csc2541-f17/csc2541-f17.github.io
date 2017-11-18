@@ -257,18 +257,11 @@ image: ""
             11/17
         </td>
         <td>
-            <p>Structure Search and Optimization</p>
+            <p>Optimization</p>
+            <p><a href="slides/lec10.pdf">[Slides]</a></p>
         </td>
         <td>
-            Structure Search
-            <ul>
-                <li><a href="http://proceedings.mlr.press/v28/duvenaud13.pdf">Duvenaud et al., 2013. Structure discovery in nonparametric regression through compositional kernel search</a></li>
-                <li><a href="http://proceedings.mlr.press/v28/wilson13.pdf">Wilson and Adams, 2013. Gaussian process kernels for pattern discovery and extrapolation</a></li>
-            </ul>
-            Optimization
-            <ul>
-                <li><a href="https://arxiv.org/abs/1503.05671">Martens and Grosse, 2015. Optimizing neural networks with Kronecker-factored approximate curvature.</a></li>
-            </ul>
+            <a href="https://arxiv.org/abs/1503.05671">Martens and Grosse, 2015. Optimizing neural networks with Kronecker-factored approximate curvature.</a>
         </td>
     </tr>
     <tr>
