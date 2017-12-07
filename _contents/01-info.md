@@ -64,7 +64,7 @@ Grades will be based on:
 * Project proposal - 20% - due Oct. 12
 * Final project presentation, report, and code - 60%
     * presentations Nov. 24 and Dec. 1
-    * Project report due Dec. 10
+    * Project report due <del>Dec. 10</del> Dec. 13
 
 ### Project
 

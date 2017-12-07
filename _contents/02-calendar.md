@@ -276,7 +276,7 @@ image: ""
         </tr>
     <tr>
         <td>
-            12/10
+            <del>12/10</del> 12/13
         </td>
         <td>
             Project reports due
